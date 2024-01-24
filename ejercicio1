@@ -1,0 +1,6 @@
+//Completa la función que tomando dos números como argumento devuelva el más alto.//
+
+function valorMayor (a, b){
+    return a>b ? a : b;
+}
+console.log(valorMayor (9, 3));
